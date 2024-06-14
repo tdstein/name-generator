@@ -1,0 +1,31 @@
+backus
+berners lee
+brin
+brooks
+cerf
+dijkstra
+engelbart
+floyd
+hoare
+hopper
+kahn
+karp
+kay
+knuth
+lamport
+mccarthy
+milner
+newell
+page
+papadimitriou
+ritchie
+shannon
+simon
+tanenbaum
+thacker
+torvalds
+turing
+ullman
+viterbi
+von neumann
+wirth
