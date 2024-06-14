@@ -7,6 +7,7 @@ import (
 	"fmt"
 	"math/rand"
 	"strings"
+	"time"
 )
 
 //go:embed data/*
@@ -14,17 +15,21 @@ var files embed.FS
 
 type NameGenerator struct {
 	choices [][]string
+	r       *rand.Rand
 }
 
 func NewNameGenerator(choices ...[]string) (NameGenerator, error) {
-	ng := NameGenerator{choices: choices}
+	ng := NameGenerator{
+		choices: choices,
+		r:       rand.New(rand.NewSource(time.Now().Unix())),
+	}
 	return ng, nil
 }
 
 func (ng *NameGenerator) Generate(sep string) string {
 	n := make([]string, len(ng.choices))
 	for i, c := range ng.choices {
-		r := rand.Intn(len(c))
+		r := ng.r.Intn(len(c))
 		v := c[r]
 		if sep != " " {
 			v = strings.ReplaceAll(v, " ", sep)
