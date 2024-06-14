@@ -96,7 +96,7 @@ func main() {
     }
 
     name := ng.Generate("-")
-    fmt.Println(name) // Output could be: "clever-chipmunk"
+    fmt.Println(name) // Output could be: "delightful-sunglasses"
 }
 ```
 ## License
