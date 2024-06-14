@@ -45,5 +45,9 @@ func LoadChoices(name string) ([]string, error) {
 	for scanner.Scan() {
 		lines = append(lines, scanner.Text())
 	}
+
+	if len(lines) == 0 {
+		return nil, fmt.Errorf("choices not found for %s", name)
+	}
 	return lines, scanner.Err()
 }
