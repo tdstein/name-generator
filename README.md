@@ -53,32 +53,20 @@ fmt.Println(name) // Output could be: "Dr. Jane Doe"
 fmt.Println(name) // Output could be: "Dr. Alex Doe"
 ```
 
-### Load Installed Choices
+### Choice Datasets
 
-#### Adjectives
-
-[`data/adjectives.txt`](./data/adjectives.txt)
+Load pre-installed choice datasets.
 
 `choices, err := namegen.LoadChoices("adjectives")`
 
-```
-adorable
-adventurous
-aggressive
-...
-```
-
-#### Animals
-
-[`data/animals.txt`](./data/animals.txt)
-
-`choices, err := namegen.LoadChoices("animals")`
-```
-aardvark
-aardwolf
-abyssinian
-...
-```
+- **[`adjectives`](./data/adjectives.txt)**
+- **[`amphibians`](./data/amphibians.txt)**
+- **[`birds`](./data/birds.txt)**
+- **[`fish`](./data/fish.txt)**
+- **[`mammals`](./data/mammals.txt)**
+- **[`places`](./data/places.txt)**
+- **[`reptiles`](./data/reptiles.txt)**
+- **[`things`](./data/things.txt)**
 
 ### Example
 
@@ -97,12 +85,12 @@ func main() {
         log.Fatal(err)
     }
 
-    animals, err := namegen.LoadChoices("animals")
+    things, err := namegen.LoadChoices("things")
     if err != nil {
         log.Fatal(err)
     }
 
-    ng, err := namegen.NewNameGenerator(adjectives, animals)
+    ng, err := namegen.NewNameGenerator(adjectives, things)
     if err != nil {
         log.Fatal(err)
     }

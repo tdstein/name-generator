@@ -18,17 +18,16 @@ airedoodle
 akbash
 akita
 akita shepherd
-alabai
+alabai (central asian shepherd)
 alaskan husky
 alaskan klee kai
 alaskan malamute
 alaskan shepherd
-alligator
 alpaca
 alpine dachsbracke
 alpine goat
 alusky
-amazon river dolphin
+amazon river dolphin (pink dolphin)
 american alsatian
 american bulldog
 american cocker spaniel
@@ -43,24 +42,17 @@ american staffordshire terrier
 american water spaniel
 amur leopard
 anatolian shepherd dog
-angelshark
 angora ferret
 angora goat
-ant
 anteater
 antelope
-antiguan racer snake
-antling
 ape
-aphid
 appenzeller dog
 apple head chihuahua
-arabian wolf
 arctic fox
 arctic hare
 arctic wolf
 armadillo
-aruba rattlesnake
 asian elephant
 asian palm civet
 asiatic black bear
@@ -88,7 +80,6 @@ banded palm civet
 bandicoot
 barbet
 basenji dog
-bass
 bassador
 basset fauve de bretagne
 basset hound
@@ -112,7 +103,6 @@ bedlington terrier
 beefalo
 belgian shepherd
 belgian tervuren
-beluga sturgeon
 bengal tiger
 bergamasco
 berger picard
@@ -129,11 +119,9 @@ binturong
 birman
 bison
 black and tan coonhound
-black bear
 black rhinoceros
 black russian terrier
 black footed ferret
-blobfish
 bloodhound
 blue lacy dog
 blue picardy spaniel
@@ -176,21 +164,17 @@ bull shark
 bull terrier
 bulldog
 bullmastiff
-bunny
 burmese
 bush baby
-butterfly
 cactus mouse
 cairn terrier
 camel
-campine chicken
 canaan dog
 canada lynx
 canadian eskimo dog
 canadian horse
 cane corso
 cape lion
-capuchin
 capybara
 caracal
 caribou
@@ -199,7 +183,6 @@ cashmere goat
 cat
 catahoula leopard
 catalan sheepdog
-caterpillar
 cava tzu
 cavador
 cavalier king charles spaniel
@@ -211,14 +194,10 @@ chartreux
 cheagle
 cheetah
 chesapeake bay retriever
-chick
-chicken
 chihuahua
 chimpanzee
 chinchilla
-chinese alligator
 chinese crested dog
-chinese paddlefish
 chinese shar pei
 chinook
 chipmunk
@@ -227,7 +206,6 @@ chiweenie
 chorkie
 chow chow
 chow shepherd
-chuckwalla
 cinnamon bear
 cinnamon ferret
 clouded leopard
@@ -235,20 +213,16 @@ clumber spaniel
 coati
 cockalier
 cockapoo
-cockatoo
 cocker spaniel
-cockrell
-coelacanth
 collared peccary
 collie
-colt
 common spotted cuscus
 common toad
 corgidor
 corgipoo
 corkie
 corman shepherd
-corn rex cat
+corn rex cat (cornish rex)
 coton de tulear
 cotton top tamarin
 coues deer
@@ -258,17 +232,9 @@ coyote
 crab eating fox
 crab eating macaque
 crabeater seal
-crane
-cria
-cricket
-crocodile
-crocodylomorph
 cross fox
 cross river gorilla
-crow
-cub
 curly coated retriever
-cygnet
 czechoslovakian wolfdog
 dachsador
 dachshund
@@ -280,7 +246,6 @@ darwin’s fox
 deer
 deer head chihuahua
 deer mouse
-desert wolf
 deutsche bracke
 devon rex
 dhole
@@ -301,20 +266,16 @@ douc
 doxiepoo
 doxle
 drever
-duck
 dugong
 dunker
 dusky dolphin
 dwarf hamster
-eagle
-eagle ray
 eastern barred bandicoot
 eastern chipmunk
 eastern gorilla
 eastern lowland gorilla
 echidna
 egyptian mau
-egyptian tortoise
 eland
 elasmotherium
 elephant
@@ -322,7 +283,6 @@ elephant seal
 elephant shrew
 elk
 emperor tamarin
-emu
 english bulldog
 english cocker spaniel
 english cream golden retriever
@@ -346,26 +306,20 @@ evening bat
 fainting goat
 fallow deer
 false killer whale
-fawn
 feist
 fennec fox
 ferret
 field spaniel
 fila brasileiro
-filly
 fin whale
-finch
 finnish spitz
 fisher
 fishing cat
 flat coated retriever
-fledgling
 florida mouse
 florida panther
-flycatcher
 flying lemur
 flying squirrel
-foal
 formosan mountain dog
 fossa
 fox
@@ -374,10 +328,7 @@ fox terrier
 french bulldog
 frenchton
 frengle
-freshwater eel
-froglet
 fruit bat
-fry
 fur seal
 gazelle
 genet
@@ -390,10 +341,8 @@ german sheppit
 german sheprador
 german shorthaired pointer
 german spitz
-gharial
 giant armadillo
 giant golden mole
-giant panda
 giant panda bear
 giant schnauzer
 giant schnoodle
@@ -401,13 +350,11 @@ gibbon
 giraffe
 glechon
 glen of imaal terrier
-gnu
 goat
 goberian
 goldador
 golden dox
 golden jackal
-golden lancehead
 golden lion tamarin
 golden mole
 golden newfie
@@ -415,26 +362,18 @@ golden pyrenees
 golden retriever
 golden saint
 golden shepherd
-golden trout
 golden crowned flying fox
 goldendoodle
-goliath grouper
-goose
-gooty sapphire tarantula
 gopher
 goral
 gordon setter
 gorilla
-grasshopper
 grasshopper mouse
 gray fox
 great dane
 great danoodle
-great hammerhead shark
 great pyrenees
-great white shark
 greater swiss mountain dog
-green iguana
 greenland dog
 grey mouse lemur
 grey seal
@@ -443,7 +382,6 @@ griffonshire
 grizzly bear
 groenendael
 ground squirrel
-grouper
 guinea pig
 hamster
 harbor porpoise
@@ -452,12 +390,10 @@ hare
 harp seal
 harrier
 hartebeest
-hatchling
 havanese
 havapoo
 havashire
 hawaiian monk seal
-hawk
 hedgehog
 highland cattle
 himalayan
@@ -466,16 +402,11 @@ hoary bat
 hokkaido
 honduran white bat
 honey badger
-honeybee
 hooded seal
 horgi
-hornbill
 horse
-houdan chicken
-house cat
 howler monkey
 human
-hummingbird
 huntaway
 huskador
 huskita
@@ -493,21 +424,18 @@ indian palm squirrel
 indian rhinoceros
 indochinese tiger
 indri
-infant
 irish doodle
 irish setter
 irish terrier
 irish water spaniel
 irish wolfhound
 italian greyhound
-ivory billed woodpecker
 jack russells
 jackabee
 jackal
 jackrabbit
 jaguar
 jaguarundi cat
-jamaican iguana
 japanese chin
 japanese macaque
 japanese spitz
@@ -516,13 +444,11 @@ japanese terrier
 javan rhinoceros
 javanese
 jerboa
-joey
 kai ken
-kaluga sturgeon
 kangal shepherd dog
 kangaroo
 kangaroo rat
-kermode bear
+kermode bear (spirit bear)
 kerry blue terrier
 key deer
 kiang
@@ -533,9 +459,7 @@ kinder goat
 king shepherd
 kinkajou
 kishu
-kit
 kit fox
-kitten
 koala
 kodkod
 kooikerhondje
@@ -551,11 +475,8 @@ labrador retriever
 labraheeler
 lakeland terrier
 lamancha goat
-lamb
 lancashire heeler
 lapponian herder
-larva
-leaf katydid
 lemming
 lemur
 leonberger
@@ -565,7 +486,6 @@ leopard seal
 lhasa apso
 lhasapoo
 liger
-lineback cattle
 lion
 little brown bat
 livyatan
@@ -599,7 +519,6 @@ mastador
 mastiff
 meagle
 meerkat
-mekong giant catfish
 mexican free tailed bat
 miki
 mini labradoodle
@@ -611,12 +530,10 @@ mole
 mongoose
 mongrel
 monkey
-monte iberia eleuth
 moorhen
 moose
 morkie
 moscow watchdog
-moth
 mountain cur
 mountain feist
 mountain gorilla
@@ -629,14 +546,12 @@ muntjac
 musk deer
 muskox
 muskrat
-myna bird
 nabarlek
 naked mole rat
 narwhal
 neanderthal
 neapolitan mastiff
 nebelung
-nestling
 netherland dwarf rabbit
 newfoundland
 newfypoo
@@ -656,33 +571,22 @@ nubian goat
 numbat
 nutria
 nyala
-oceanic whitetip shark
 ocelot
-oilbird
 okapi
 old english sheepdog
 olingo
 olive baboon
-onagadori chicken
 onager
 opossum
 orangutan
-orca whale
 oribi
-orinoco crocodile
-oriole
-ostrich
 otter
 otterhound
-owl
-owlet
 ox
 pademelon
-panda
 pangolin
 panther
 papillon
-parrot
 parson russell terrier
 patagonian mara
 patas monkey
@@ -690,9 +594,7 @@ patterdale terrier
 peagle
 peekapoo
 pekingese
-pelican
 pembroke welsh corgi
-penguin
 père david’s deer
 perro de presa canario
 persian
@@ -700,11 +602,8 @@ peruvian inca orchid
 petit basset griffon vendéen
 petite goldendoodle
 pheasant
-phoebe
 pied tamarin
 pig
-piglent
-piglet
 pika
 pine marten
 pink fairy armadillo
@@ -726,10 +625,8 @@ poochon
 poodle
 poogle
 porcupine
-porpoise
 possum
 potoroo
-poult
 prairie dog
 proboscis monkey
 procoptodon
@@ -739,13 +636,10 @@ pug
 pugapoo
 puggle
 pugshire
-pullet
 puma
 pumi
-pup
-puppy
 pygmy hippopotamus
-pygmy marmoset
+pygmy marmoset (finger monkey)
 pygora goat
 pyrador
 pyredoodle
@@ -755,7 +649,6 @@ quoll
 rabbit
 raccoon
 raccoon dog
-radiated tortoise
 ragamuffin
 ragdoll
 raggle
@@ -767,13 +660,11 @@ red panda
 red squirrel
 red wolf
 red handed tamarin
-red headed vulture
 redbone coonhound
 reindeer
 rhinoceros
 river otter
 rock hyrax
-rock ptarmigan
 rodents
 roe deer
 rottsky
@@ -791,30 +682,22 @@ saiga
 saint berdoodle
 saint bernard
 saint shepherd
-salamanderling
-salmon
 saluki
 sambar
 samoyed
-sandpiper
 saola
-sardine
 savanna goat
-sawfish
 schipperke
 schneagle
 schnoodle
 scimitar horned oryx
 scottish terrier
-scrotum frog
 sea lion
 sea otter
 seal
 sealyham terrier
-sehuencas water frog
 sei whale
 serval
-shark
 sheep
 sheepadoodle
 shepadoodle
@@ -832,16 +715,13 @@ siberian ibex
 siberian retriever
 siberian tiger
 siberpoo
-sichuan takin
+sichuan takin (tibetan takin)
 silky terrier
 silver labrador
 skunk
 skye terrier
 sloth
-slug
 smooth fox terrier
-snail
-snake
 snorkie
 snow leopard
 snowshoe
@@ -851,18 +731,14 @@ south china tiger
 spanador
 spanish goat
 spanish mastiff
-sparrow
 spectacled bear
 sperm whale
 sphynx
 spider monkey
-spiderling
 spinone italiano
 spotted skunk
 springbok
 springerdoodle
-squab
-squid
 squirrel
 squirrel monkey
 sri lankan elephant
@@ -873,25 +749,19 @@ star nosed mole
 steller’s sea cow
 stoat
 striped hyena
-sturgeon
 sugar glider
-sultan chicken
 sumatran elephant
 sumatran orangutan
 sumatran rhinoceros
 sumatran tiger
 sun bear
-swallow
-swan
 swedish vallhund
 syrian hamster
 taco terrier
 takin
-tamarin
 tamaskan
 tapanuli orangutan
 tapir
-tarantula
 tarsier
 tasmanian devil
 tasmanian tiger
@@ -901,7 +771,6 @@ teddy roosevelt terrier
 tennessee walking horse
 tenrec
 tenterfield terrier
-termite
 terrier
 texas heeler
 thai ridgeback
@@ -912,8 +781,6 @@ tibetan terrier
 tiffany
 tiger
 torkie
-tortoise
-toucan
 toy fox terrier
 toy poodle
 transylvanian hound
@@ -921,19 +788,16 @@ tree kangaroo
 treeing tennessee brindle
 treeing walker coonhound
 tuatara
-tuna
 turkish angora
-turtle
 uakari
 uinta ground squirrel
 uintatherium
-unau
+unau (linnaeus’s two toed sloth)
 utonagan
 vampire bat
 vaquita
 vervet monkey
 vicuña
-viper
 vizsla
 vole
 volpino italiano
@@ -953,11 +817,9 @@ west highland terrier
 western gorilla
 western lowland gorilla
 westiepoo
-whale
 wheaten terrier
-whelp
 whippet
-white ferret
+white ferret / albino ferrets
 white rhinoceros
 white tiger
 white faced capuchin
@@ -975,13 +837,10 @@ wood bison
 woodrat
 woolly monkey
 woolly rhinoceros
-worm
-wormlet
 xerus
 xoloitzcuintli
 yak
 yakutian laika
-yokohama chicken
 yoranian
 yorkie bichon
 yorkiepoo

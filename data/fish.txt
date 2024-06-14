@@ -1,0 +1,332 @@
+alaskan pollock
+albacore tuna
+alligator gar
+amano shrimp
+amberjack
+american eel
+american paddlefish
+anchovies
+angelfish
+anglerfish
+arapaima
+archerfish
+arctic char
+asian arowana
+asian carp
+atlantic cod
+atlantic salmon
+atlantic sturgeon
+australian flathead perch
+banana eel
+banjo catfish
+barb
+barracuda
+barramundi fish
+barreleye fish
+basking shark
+bass
+batfish
+beluga sturgeon
+beluga sturgeon
+betta fish
+bigfin reef squid
+black bass
+black marlin
+blacknose shark
+bladefin basslet
+blobfish
+blue catfish
+blue eyed pleco
+blue shark
+blue tang
+bluefin tuna
+bluegill
+bonefish
+bonito fish
+bonnethead shark
+bowfin
+boxfish
+bronze whaler shark
+brook trout
+buffalo fish
+bull trout
+butterfly fish
+carp
+catfish
+chain pickerel
+chimaera
+chinese paddlefish
+chinook salmon
+cichlid
+clearnose skate
+clownfish
+cobia fish
+codfish
+coelacanth
+comb jellyfish
+common carp
+conger eel
+cookiecutter shark
+cory catfish
+crappie fish
+cubera snapper
+damselfish
+danios
+discus
+dragon eel
+dragonfish
+drum fish
+dusky shark
+dwarf gourami
+eagle ray
+eel
+eel catfish
+eelpout
+electric catfish
+electric eel
+elephant fish
+ember tetra
+emperor angelfish
+escolar
+fangtooth
+fire eel
+fish
+flathead catfish
+florida gar
+flounder
+flounder fish
+flowerhorn fish
+fluke fish
+flying fish
+football fish
+freshwater drum
+freshwater eel
+freshwater jellyfish
+freshwater sunfish
+frilled shark
+frogfish
+galapagos shark
+gar
+garden eel
+ghost catfish
+giant trevally
+goblin shark
+goby fish
+golden shiner
+golden trout
+goldfish
+goliath tigerfish
+goonch catfish
+gourami
+grass carp
+great hammerhead shark
+great white shark
+green sunfish
+greenland shark
+grey reef shark
+grunion
+guadalupe bass
+gulper catfish
+gulper eel
+guppy
+haddock
+hagfish
+haikouichthys
+hairy frogfish
+halibut
+hammerhead shark
+hardhead catfish
+herring
+hogfish
+horn shark
+horse mackerel
+immortal jellyfish
+irukandji jellyfish
+jack crevalle
+jellyfish
+john dory
+kaluga sturgeon
+kelp greenling
+keta salmon
+keyhole cichlid
+killifish
+king mackerel
+king salmon
+kingklip
+kissing gourami
+kitefin shark
+knifefish
+koi fish
+kokanee salmon
+krill
+labout’s fairy wrasse
+lake sturgeon
+lake trout
+lamprey
+lancetfish
+largemouth bass
+lawnmower blenny
+leopard shark
+leptocephalus
+lionfish
+lizardfish
+loach
+longfin mako shark
+longnose gar
+lumpfish
+lungfish
+mahi mahi
+mangrove snapper
+manta ray
+masked angelfish
+mayan cichlid
+megalodon
+megamouth shark
+mekong giant catfish
+milkfish
+mojarra
+mola mola
+molly
+monkfish
+moon jellyfish
+moray eel
+mudskipper
+mullet fish
+muskellunge
+needlefish
+neon tetra
+neptune grouper
+oarfish
+ocean perch
+ocean pout
+ocean whitefish
+oilfish
+opah
+opaleye
+orange roughy
+orchid dottyback
+oscar fish
+oyster toadfish
+ozark bass
+pacific sleeper shark
+paddlefish
+parrotfish
+pea puffer
+peacock bass
+peppermint angelfish
+perch fish
+pictus catfish
+pike fish
+pinfish
+pink salmon
+pipefish
+piranha
+platinum arowana
+pollock fish
+pompano fish
+porbeagle shark
+porcupinefish
+pufferfish
+pygmy shark
+pyjama shark
+rainbow kribs
+rainbow shark
+red drum fish
+red lipped batfish
+redear sunfish
+redhump eartheater
+redtail catfish
+reef shark
+rockfish
+sailfish
+salmon
+salmon shark
+sand tiger shark
+sardines
+sawfish
+scorpion fish
+sculpin
+sea dragon
+sea slug
+sea trout
+sea urchin
+seahorse
+shark
+sheepshead fish
+shortfin mako shark
+silky shark
+silver dollar
+sixgill shark
+skate fish
+skipjack tuna
+sleeper shark
+smallmouth bass
+smooth hammerhead shark
+snailfish
+snook fish
+snowflake eel
+sockeye salmon
+spanish mackerel
+speckled trout
+spinner shark
+spiny dogfish
+sponge
+spotted gar
+spotted garden eel
+squirrelfish
+starfish
+stargazer fish
+steelhead salmon
+stingray
+stonefish
+stoplight loosejaw
+striped bass
+sturgeon
+suckerfish
+surgeonfish
+swai fish
+swordfish
+taimen fish
+tang
+tarpon
+telescope fish
+tetra
+thornback ray
+thresher shark
+tiger muskellunge
+tiger shark
+tiger trout
+tire track eel
+toadfish
+triggerfish
+trout
+tuna
+uaru cichlid
+urechis unicinctus
+viper shark
+viperfish
+wahoo fish
+walking catfish
+walleye fish
+wels catfish
+whale shark
+white bass
+white catfish
+white crappie
+white sturgeon
+whiting
+wolf eel
+wolffish
+wrasse
+wrought iron butterflyfish
+xingu river ray
+xiphactinus
+yellow bass
+yellow bullhead catfish
+yellow perch
+yellow tang
+yellowfin tuna
+yellowtail snapper
+zebra pleco
+zebra shark
+zebrafish
