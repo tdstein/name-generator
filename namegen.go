@@ -25,13 +25,16 @@ func (ng *NameGenerator) Generate(sep string) string {
 	n := make([]string, len(ng.choices))
 	for i, c := range ng.choices {
 		r := rand.Intn(len(c))
-		n[i] = c[r]
+		v := c[r]
+		if sep != " " {
+			v = strings.ReplaceAll(v, " ", sep)
+		}
+		n[i] = v
 	}
 	return strings.Join(n, sep)
 }
 
 func LoadChoices(name string) ([]string, error) {
-
 	b, err := files.ReadFile(fmt.Sprintf("data/%s.txt", name))
 	if err != nil {
 		return nil, err
