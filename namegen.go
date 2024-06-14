@@ -40,6 +40,10 @@ func LoadChoices(name string) ([]string, error) {
 		return nil, err
 	}
 
+	if len(b) == 0 {
+		return nil, fmt.Errorf("choices not found for %s", name)
+	}
+
 	var lines []string
 	scanner := bufio.NewScanner(bytes.NewReader(b))
 	for scanner.Scan() {
